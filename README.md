@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Nitheesh S
 #### I am a Web Developer
-![I am a Web Developer](https://github.com/Nitheeshs795/Hello-Everyone/blob/master/My photo.JPG)
+![I am a Web Developer](https://github.com/Nitheeshs795/Hello-Everyone/blob/master/My Photo.JPG)
 
 My Way of learning and teaching are by doing some projects. In my opinion i consider that by doing those projects the problem solving skills and technical knowledge will also increase. In this profile i am going to show some of my projects.
 
